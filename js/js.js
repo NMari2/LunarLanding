@@ -86,7 +86,7 @@ function acabar(){
 		document.onkeydown=null;
 		document.onkeyup=null;
 		setTimeout(perder, 2000);
-		document.getElementById("cohete").src = "/C:/Users/us/Desktop/prueba/img/pum.gif";
+		document.getElementById("cohete").src = "../img/pum.gif";
 		function perder() {
 			var r = confirm("Has perdido, quieres volver a probar?");
 			document.onkeydown=null;
