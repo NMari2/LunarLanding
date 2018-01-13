@@ -30,14 +30,16 @@ window.onload = function(){
 	//definición de eventos
 	//mostrar menú móvil
     	document.getElementById("showm").onclick = function () {
-		document.getElementsByClassName("opciones")[0].style.display = "block";
+		document.getElementsByClassName("fila1")[0].style.display = "block";
+		document.getElementsByClassName("fila2")[0].style.display = "block";
 		document.getElementById("hidem").style.display = "inline-block";
 		document.getElementById("showm").style.display = "none";
 		stop();
 	}
 	//ocultar menú móvil
 	document.getElementById("hidem").onclick = function () {
-		document.getElementsByClassName("opciones")[0].style.display = "none";
+		document.getElementsByClassName("fila1")[0].style.display = "none";
+		document.getElementsByClassName("fila2")[0].style.display = "none";
 		document.getElementById("hidem").style.display = "none";
 		document.getElementById("showm").style.display = "inline-block";
 		start();
