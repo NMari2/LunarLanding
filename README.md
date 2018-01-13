@@ -11,3 +11,9 @@ para optimizarlas.
 
 ### Rawgit de la página:  
 [**LunarLanding**](https://rawgit.com/NMari2/LunarLanding/master/index.html)
+
+#### Validador HTML:
+![Validador HTML](https://github.com/NMari2/LunarLanding/blob/master/validadohtml.PNG)
+
+#### Validador CSS:
+![Validador CSS](https://github.com/NMari2/LunarLanding/blob/master/validadocss.PNG)
