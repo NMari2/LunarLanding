@@ -10,4 +10,10 @@ con gimp, una vez exportadas las he pasado por [TinyPNG](https://tinypng.com/)
 para optimizarlas.
 
 ### Rawgit de la página:  
-[**LunarLanding**](https://rawgit.com/NMari2/LunarLanding/master/index.html)
+[**LunarLanding**](https://rawgit.com/NMari2/LunarLanding/NMari2-Minify/index.html)
+
+#### Validador HTML:
+![Validador HTML](https://github.com/NMari2/LunarLanding/blob/NMari2-Minify/validadominihtml.PNG)
+
+#### Validador CSS:
+![Validador CSS](https://github.com/NMari2/LunarLanding/blob/NMari2-Minify/validadominicss.PNG)
